@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @damnadam12
-- 👀 I’m interested in finance and golang
-- - 🌱 I’m currently learning golang
+ Hi, I’m @damnadam12
+ I’m interested in stock options and golang
+ I’m currently learning golang
 
 
 

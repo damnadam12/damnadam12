@@ -1,6 +1,6 @@
  Hi, I’m @damnadam12
  -
- I’m interested in stock options and golang
+ I like to build stuff and also like stock options
  -
  I’m currently learning golang
 
